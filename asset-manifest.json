@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hunter-corp/static/css/main.c493d1d9.css",
+    "main.js": "/hunter-corp/static/js/main.954bf956.js",
+    "static/js/453.ee47f325.chunk.js": "/hunter-corp/static/js/453.ee47f325.chunk.js",
+    "index.html": "/hunter-corp/index.html",
+    "main.c493d1d9.css.map": "/hunter-corp/static/css/main.c493d1d9.css.map",
+    "main.954bf956.js.map": "/hunter-corp/static/js/main.954bf956.js.map",
+    "453.ee47f325.chunk.js.map": "/hunter-corp/static/js/453.ee47f325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c493d1d9.css",
+    "static/js/main.954bf956.js"
+  ]
+}
